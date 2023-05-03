@@ -1,0 +1,128 @@
+    1  /cita/local/bin/passwd
+    2  whoami
+    3  echo $HOSTNAME
+    4  $USER
+    5  who
+    6  cd /home/cta200
+    7  ls
+    8  find -name '*auss*'
+    9  ls -la
+   10  .
+   11  find . -name '*auss*'
+   12  cd ./Research/gauss2d
+   13  ls
+   14  cd pwd
+   15  cd
+   16  pwd
+   17  cd
+   18  mkdir gauss2d
+   19  cd /gauss2d/
+   20  cd /gauss2d
+   21  cd
+   22  mkdir gauss2d
+   23  ls -la
+   24  cd gauss2d
+   25  cp -av /home/cta200/Research/gauss2d student09/gauss2d
+   26  ls -la
+   27  cd 
+   28  ls -la
+   29  la
+   30  ls
+   31  ls -la
+   32  cd gauss2d
+   33  cp -av /home/cta200/Research/gauss2d .
+   34  less gauss2d.cc
+   35  cd gauss2d
+   36  less gauss.cc
+   37  less ./gauss2d.cc
+   38  cat ./Makefile
+   39  vim ./plot.py
+   40  g++ gauss2d.cc -0 xgauss2d
+   41  g++ gauss2d.cc -o xgauss2d
+   42  ./xgauss2d > data_try.txt
+   43  less ./data_try.txt
+   44  module avil
+   45  module avil gcc
+   46  module load gcc/5.4.0
+   47  module load python
+   48  ./script.py
+   49  ls
+   50  python plot.py
+   51  head -1 ./plot.py
+   52  ./plot.py < data_try.txt
+   53  less ./plot.py
+   54  python ./plot.py
+   55  /mnt/scratch-lustre/student09
+   56  cd /mnt/scratch-lustre/student09
+   57  cd /home/murray
+   58  find . -name '*ello*'
+   59  cp -av ./Hello_world.py /mnt/scratch-lustre/student09/CTA200_2022
+   60  cp -av ./Papers/tmp/Hello_world.c /mnt/scratch-lustre/student09/CTA200_2022
+   61  cp -av ./Hello_world.py /mnt/scratch-lustre/student09/CTA200_2022/Hello_world_Nan_Jiang.py
+   62  cp -av ./Hello_world.py /mnt/scratch-lustre/student09/CTA200_2022/
+   63  cp -av ./Hello_world.py /mnt/scratch-lustre/student09/CTA200_2022
+   64  ls
+   65  cd /mnt/scratch-lustre/student09
+   66  ls
+   67  CTA200_2023
+   68  cd CTA200_2023
+   69  ls
+   70  assignment_1
+   71  cd assignment_1
+   72  ls
+   73  cd /home/murray
+   74  cp -av ./Hello_world.py /mnt/scratch-lustre/student09/CTA200_2023
+   75  c= -av ./Hello_world.c /mnt/scratch-lustre/student09/CTA200_2023
+   76  cp -av ./Hello_world.c /mnt/scratch-lustre/student09/CTA200_2023
+   77  cd /mnt/scratch-lustre/student09/CTA200_2023/
+   78  ls
+   79  rm READ.md
+   80  ls
+   81  cp -av ./Hello_world.py ./assignment_1
+   82  cp -av ./Hello_world.c ./assignment_1
+   83  rm Hello_world.py
+   84  rm ./Hello_world.c
+   85  ls
+   86  rm ./Hello_world.c
+   87  ls
+   88  rm ./Hello_world.py
+   89  ls
+   90  cd assignment
+   91  cd assignment1
+   92  cd assignment_1
+   93  mv Hello_world.py Hello_world_Jiang.py
+   94  mv Hello_world.c Hello_world_Jiang.c
+   95  module avail
+   96  module avail gcc
+   97  g++ Hello_world.c -o Hello_world.x
+   98  ls
+   99  g++ Hello_world_Jiang.c -o Hello_world_Jiang.x
+  100  g++ Hello_world_Jiang.c -o Hello_world.x
+  101  ls
+  102  rm Hello_world_Jiang.x
+  103  ls
+  104  Hello_world.x
+  105  module gcc
+  106  gcc Hello_world_Jiang.c -o Hello_world.x
+  107  modules load python
+  108  module load python
+  109  python Hello_world_Jiang.py
+  110  vim Hello_world_Jiang.py
+  111  vi Hello_world_Jiang.c
+  112  Hello_world.x > output_c.txt
+  113  ./Hello_world.x
+  114  Hello_world_Jiang.c -o Hello_world.x
+  115  ./Hello_world.x
+  116  vi Hello_world_Jiang.c
+  117  rm Hello_world.x
+  118  Hello_world_Jiang.c -o Hello_world.x
+  119  gcc Hello_world_Jiang.c -o Hello_world.x
+  120  ./Hello_world.x
+  121  ./Hello_world.x > output_c.txt
+  122  python Hello_world.py > output_python.py
+  123  ls
+  124  python Hello_world_Jiang.py > output_python.txt
+  125  ls
+  126  rm output_python.py
+  127  ls
+  128  history > history.txt
